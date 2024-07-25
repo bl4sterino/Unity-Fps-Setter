@@ -1,0 +1,18 @@
+{
+  "name": "com.bl4sterino.unity-fps-setter",
+  "version": "1.0.0",
+  "displayName": "FPS Setter",
+  "description": "Adds an Editor window to change the framerate in the editor",
+  "documentationUrl": "https://github.com/bl4sterino/Unity-Fps-Setter",
+  "keywords": [
+	"Fps",
+    "Setter",
+    "Framerate",
+	"Editor",
+	"Window"
+  ],
+  "author": {
+    "name": "Paul Berne",
+    "url": "https://github.com/bl4sterino/"
+  }
+}
